@@ -13,3 +13,4 @@
 .vs/CMakeWorkspaceSettings.json
 .vs/ProjectSettings.json
 .vs/slnx.sqlite
+*.vsidx
