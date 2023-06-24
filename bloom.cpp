@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <array>
+#include <cstddef>
 
 #include "smhasher/MurmurHash3.h"
 
