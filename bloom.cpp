@@ -4,7 +4,7 @@
 #include <vector>
 #include <array>
 
-#include "MurmurHash3.h"
+#include "smhasher/MurmurHash3.h"
 
 //basic structure of a bloom filter object
 struct BloomFilter {
